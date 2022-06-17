@@ -1,0 +1,21 @@
+{
+  "name": "node-api-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:williamsumida/node-api-template.git",
+  "author": "William Sumida <william.h.sumida@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jest": "^28.1.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "nodemon": "^2.0.16",
+    "sucrase": "^3.21.0"
+  }
+}
